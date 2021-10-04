@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:id="@+id/nameSort" android:title="@string/nameSort" />
+    <item  android:id="@+id/distanceSort" android:title="@string/distanceSort" />
+    <item  android:id="@+id/arrivalSort" android:title="@string/arrivalSort" />
+</menu>

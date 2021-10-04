@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMWChallenge</string>
+    <string name="this_is_location_name">This is location name</string>
+    <string name="this_is_address">This is address</string>
+    <string name="nameSort">Sort by name</string>
+    <string name="distanceSort">Sort by distance</string>
+    <string name="arrivalSort">Sort by arrival time</string>
+</resources>
